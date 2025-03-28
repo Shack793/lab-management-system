@@ -1,0 +1,20 @@
+# Add specific files and directories
+git add .editorconfig
+git add .env.example
+git add .gitattributes
+git add .gitignore
+git add README.md
+git add app/
+git add artisan
+git add bootstrap/
+git add composer.json
+git add composer.lock
+git add config/
+git add database/
+git add package.json
+git add public/
+git add resources/
+git add routes/
+git add storage/
+git add tests/
+git add vite.config.js
